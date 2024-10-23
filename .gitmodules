@@ -1,0 +1,3 @@
+[submodule "filter-everything"]
+	path = filter-everything
+	url = git@github.com:youneshenni/filter-everything.git
